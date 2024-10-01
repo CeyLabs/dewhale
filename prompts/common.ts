@@ -1,5 +1,5 @@
 import { retryAsync } from "https://deno.land/x/retry@v2.0.0/mod.ts";
-import OpenAI from "https://deno.land/x/openai@v4.20.1/mod.ts";
+import OpenAI from "https://deno.land/x/openai@v4.66.1/mod.ts";
 import {
   ChatCompletionMessageParam,
   CompletionUsage,
